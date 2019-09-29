@@ -50,5 +50,3 @@ end
      #  sum + x
      # end
 end
-
-sum_array([11,4,7,8,9,100,134]) #273
