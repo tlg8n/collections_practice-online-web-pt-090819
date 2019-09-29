@@ -21,5 +21,11 @@ def reverse_array(number)
 end
 
 def kesha_maker(array)
-  
+  arry
 end
+
+myString = "Welcome to JavaScript!"
+myString[10]= "Ruby"
+
+puts myString
+=> "Welcome toRubyJavaScript!"
