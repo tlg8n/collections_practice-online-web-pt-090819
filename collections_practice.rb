@@ -23,9 +23,3 @@ end
 def kesha_maker(array)
   array[2] = "$"
 end
-
-myString = "Welcome to JavaScript!"
-myString[10]= "Ruby"
-
-puts myString
-=> "Welcome toRubyJavaScript!"
