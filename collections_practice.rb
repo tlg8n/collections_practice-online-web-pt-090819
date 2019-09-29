@@ -21,7 +21,7 @@ def reverse_array(number)
 end
 
 def kesha_maker(array)
-  arry
+  array[2] = "$"
 end
 
 myString = "Welcome to JavaScript!"
